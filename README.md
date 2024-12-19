@@ -1,16 +1,5 @@
 <h1>Multi Threaded Proxy Server with and without Cache</h1>
 
-## Index
-
-- [Project Theory](https://github.com/MultiThreadedProxyServerClient#project-theory)
-- [How to Run](https://github.com/MultiThreadedProxyServerClient#How-to-Run)
-- [Demo](https://github.com/MultiThreadedProxyServerClient#Demo)
-- [Contributing](https://github.com/MultiThreadedProxyServerClient#contributing)
-
-## Project Theory
-
-[[Back to top]](https://github.com/MultiThreadedProxyServerClient#index)
-
 ##### Introduction
 
 ##### Basic Working Flow of the Proxy Server:
@@ -49,9 +38,6 @@
 - We can decide which type of websites should be allowed by extending the code.
 - We can implement requests like POST with this code.
 
-
-# Note :-
-- Code is well commented. For any doubt you can refer to the comments.
 
 
 ## How to Run
