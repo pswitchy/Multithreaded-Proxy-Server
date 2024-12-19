@@ -3,7 +3,7 @@
 ##### Introduction
 
 ##### Basic Working Flow of the Proxy Server:
-![](https://github.com/MultiThreadedProxyServerClient/blob/main/pics/UML.JPG)
+![](https://github.com/MultiThreaded-Proxy-Server/blob/main/pics/UML.JPG)
 
 ##### How did we implement Multi-threading?
 - Used Semaphore instead of Condition Variables and pthread_join() and pthread_exit() function. 
@@ -43,8 +43,8 @@
 ## How to Run
 
 ```bash
-$ git clone https://github.com/MultiThreadedProxyServerClient.git
-$ cd MultiThreadedProxyServerClient
+$ git clone https://github.com/Multithreaded-Proxy-Server.git
+$ cd Multithreaded-Proxy-Server
 $ make all
 $ ./proxy <port no.>
 ```
